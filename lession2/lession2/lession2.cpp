@@ -25,7 +25,7 @@ void init ( GLvoid )     // Create Some Everyday Functions
    glEnable ( GL_COLOR_MATERIAL );
 	glHint(GL_PERSPECTIVE_CORRECTION_HINT, GL_NICEST);
 }
-
+// Jiayo Test 2
 void display ( void )   // Create The Display Function
 {
   glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);	// Clear Screen And Depth Buffer
