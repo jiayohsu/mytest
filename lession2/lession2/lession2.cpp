@@ -48,7 +48,7 @@ void display ( void )   // Create The Display Function
   glutSwapBuffers ( );
   // Swap The Buffers To Not Be Left With A Clear Screen
 }
-
+//Jiayo Test 3
 void reshape ( int w, int h )   // Create The Reshape Function (the viewport)
 {
   glViewport     ( 0, 0, w, h );
